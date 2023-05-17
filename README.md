@@ -10,7 +10,7 @@ Get creative! This project is open source - You are free to share and adapt this
 
 ## Paper Cut-Out
 
-### Robots
+### Paperbot
 ![Paper cut-out robot](A5_colour_Robots_Vector_CYMK.svg)
 
 ## License
