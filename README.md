@@ -1,5 +1,12 @@
-[Download the Art Pack](https://github.com/CoreElectronics/CE-Art-Pack/archive/refs/heads/main.zip) and get creative!
-This project is open source - You are free to share and adapt this work.
+## How to Download this Artwork
+
+There are two options:
+
+- [Download the whole Art Pack](https://github.com/CoreElectronics/CE-Art-Pack/archive/refs/heads/main.zip)
+- Download individual images: Right-click and select "Save image as..."
+
+
+Get creative! This project is open source - You are free to share and adapt this work.
 
 ## Paper Cut-Out
 
