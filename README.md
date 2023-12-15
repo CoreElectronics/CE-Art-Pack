@@ -13,6 +13,18 @@ Get creative! This project is open source - You are free to share and adapt this
 ### Paperbot
 ![Paper cut-out robot](A5_colour_Robots_Vector_CYMK.svg)
 
+## Posters
+
+### Single Board Computer
+![Single Board Computers](Poster_Single-Board-Computers_CMYK.svg)
+
+
+### FMD 3D Printing
+![3D Printing Cheatsheet](A3_Poster_3D-Printing_Vector_CMYK.svg)
+
+### Resin 3D Printing
+![3D Resin Printing Cheatsheet](A3_Poster_3D-Printing-Resin-Cheatsheet_Vector_CYMK.svg)
+
 ## License
 Please review the LICENSE.md file for further licensing information.
 
