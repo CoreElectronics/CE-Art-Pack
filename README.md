@@ -15,6 +15,9 @@ Get creative! This project is open source - You are free to share and adapt this
 
 ## Posters
 
+### Raspberry Pi Pico W
+![Raspberry Pi Pico W Pinout](A3_Poster_RPi_PicoW_Pinout_CMYK.svg)
+
 ### Single Board Computer
 ![Single Board Computers](Poster_Single-Board-Computers_CMYK.svg)
 
